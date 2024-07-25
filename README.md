@@ -48,13 +48,14 @@ Backend Python Developer
 4. По языкам: в первую очередь изучаю Python (Django). Дополнительно к нему изучаю JS. В своих проектах пользуюсь HTML, CSS. Знаю синтаксис языка запроса БД (PostgreSQL). Знаком с синтаксисом PHP.
 5. Моя цель: полноценно интегрироваться в IT.
    
-В части практических навыков работы с библиотеками Python:
-- Telebot
-- Castom TKinter
-- Pillow
+В части работы с библиотеками Python:
 - Django
 - Matplotlib
 - Plotly
+- OpenCV
+- Telebot
+- Castom TKinter
+- Pillow
 - PyGame
 - Bs4
 - Transformers
