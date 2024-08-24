@@ -52,6 +52,9 @@ Backend Python Developer
 - Django
 - Matplotlib
 - Plotly
+- Panas
+- Numpy
+- Tensorflow
 - OpenCV
 - Telebot
 - Castom TKinter
