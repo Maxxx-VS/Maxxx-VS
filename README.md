@@ -50,6 +50,7 @@ Backend Python Developer
    
 В части работы с библиотеками Python:
 - Django
+- FastAPI
 - Matplotlib
 - Plotly
 - Panas
