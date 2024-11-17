@@ -53,7 +53,7 @@ Backend Python Developer
 - FastAPI
 - Matplotlib
 - Plotly
-- Panas
+- Pandas
 - Numpy
 - Tensorflow
 - OpenCV
