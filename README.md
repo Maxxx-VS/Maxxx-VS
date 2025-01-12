@@ -31,6 +31,7 @@
   <li>2014 Инженер / Автоматизация технологический процессов (220301)
 <ul>
 <hr>
+✅<a href="https://colab.research.google.com/drive/1IxH7yClkd0yclbOnNfRlGK9ITECH27z0?usp=sharing" target="_blank">Детекция фальшивых новостей (TfidfVectorizer)</a>
 ✅ Детекция фальшивых новостей (TfidfVectorizer)
 <li>https://colab.research.google.com/drive/1IxH7yClkd0yclbOnNfRlGK9ITECH27z0?usp=sharing
 ✅ Обнаружение болезни паркинсона (XGBoost)
