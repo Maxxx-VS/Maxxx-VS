@@ -7,6 +7,7 @@
   <li>📞 Мой Telegram: @Max_MVV
 </ul>
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+<hr>
 👨‍💻 Обо мне:
 <ul>
   <li>Активно изучаю способы практического применения ИИ в бизнесе и промышленности
