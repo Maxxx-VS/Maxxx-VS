@@ -7,7 +7,7 @@
   <li>📞 Мой Telegram: @Max_MVV
 </ul>
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=Maxxx-VS&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <hr>
 👨‍💻 Обо мне:
 <ul>
@@ -28,3 +28,5 @@
   <li>2024 Программирование на Python, Stepik (повышение квалификации)
   <li>2014 Инженер / Автоматизация технологический процессов (220301)
 <ul>
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Maxxx-VS&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
