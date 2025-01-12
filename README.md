@@ -7,7 +7,7 @@
   <li>📞 Мой Telegram: @Max_MVV
 </ul>
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=Maxxx-VS)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Maxxx-VS&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <hr>
 👨‍💻 Обо мне:
 <ul>
