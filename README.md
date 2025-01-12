@@ -7,5 +7,5 @@
   <li>👨‍🎓 Учусь в академии нейросетей The Founder
   <li>📞 Мой Telegram: @Max_MVV
 </ul>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Maxxx-VS)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Maksim Vysochanskii)](https://github.com/ryo-ma/github-profile-trophy)
 
