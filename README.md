@@ -31,7 +31,13 @@
   <li>2014 Инженер / Автоматизация технологический процессов (220301)
 <ul>
 <hr>
+✅ Детекция фальшивых новостей (TfidfVectorizer)
+<li>https://colab.research.google.com/drive/1IxH7yClkd0yclbOnNfRlGK9ITECH27z0?usp=sharing
+✅ Обнаружение болезни паркинсона (XGBoost)
+✅ Распознование номеров автомобилей (OpenCV)
+✅ Обнаружение фальшивых новостей
 
+<hr>
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=Maxxx-VS&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <hr>
