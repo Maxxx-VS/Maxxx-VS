@@ -30,4 +30,5 @@
   <li>2014 Инженер / Автоматизация технологический процессов (220301)
 <ul>
 <hr>
+  
 https://github-profile-trophy.vercel.app/?username=Maxxx-VS&no-bg=true
