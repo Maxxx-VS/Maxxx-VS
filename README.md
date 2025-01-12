@@ -32,6 +32,7 @@
 <ul>
 <hr>
 🖥 Несколько моих работ:<br>
+✅ <a href="https://colab.research.google.com/drive/1w_ZvicCnsrdUN1w1Xlap87mpkKRlUA0b?usp=sharing#scrollTo=hRRoQ5V7VL0b" target="_blank">Семантическая сегментация легких человека (CNN + Autoencoder)</a><br>
 ✅ <a href="https://colab.research.google.com/drive/1IxH7yClkd0yclbOnNfRlGK9ITECH27z0?usp=sharing" target="_blank">Детекция фальшивых новостей (TfidfVectorizer)</a><br>
 ✅ <a href=https://colab.research.google.com/drive/153zgr9vMFyGOcO17CbzS1M1zJm2Mob1b?usp=sharing" target="_blank">Обнаружение болезни паркинсона (XGBoost)</a><br>
 ✅ <a href=https://colab.research.google.com/drive/1NIXP0uNoVT8mnfg_vjN96y2h1cyhtbJn?usp=sharing>Распознование номеров автомобилей (OpenCV)</a><br>
