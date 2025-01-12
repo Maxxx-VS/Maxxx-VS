@@ -5,7 +5,7 @@
   <li>💼 Закончил Омскую IT Академию
   <li>💼 Учусь в академии нейросетей The Founder
   <li>📞 Telegram: @Max_MVV
-  <li>📧 Email: Hot-zinc@yandex.ru
+  <li>📧 Email: visochanskii.mv@yandex.ru
 </ul>
 
 <hr>
