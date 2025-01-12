@@ -6,9 +6,7 @@
   <li>💼 Учусь в академии нейросетей The Founder
   <li>📞 Мой Telegram: @Max_MVV
 </ul>
-<hr>
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
 👨‍💻 Обо мне:
 <ul>
   <li>Активно изучаю способы практического применения ИИ в бизнесе и промышленности
