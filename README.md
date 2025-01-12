@@ -4,7 +4,8 @@
   <li>🌍 Живу в Омске
   <li>💼 Закончил Омскую IT Академию
   <li>💼 Учусь в академии нейросетей The Founder
-  <li>📞 Мой Telegram: @Max_MVV
+  <li>📞 Telegram: @Max_MVV
+  <li>📧 Email: Hot-zinc@yandex.ru
 </ul>
 
 <hr>
@@ -30,6 +31,7 @@
   <li>2014 Инженер / Автоматизация технологический процессов (220301)
 <ul>
 <hr>
+
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=Maxxx-VS&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <hr>
