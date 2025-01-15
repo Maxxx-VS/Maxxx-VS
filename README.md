@@ -21,12 +21,12 @@
 </ul><hr>
 
   
-<H2>🖥PET-проекты:</h2>
-✅ <a href="https://colab.research.google.com/drive/1w_ZvicCnsrdUN1w1Xlap87mpkKRlUA0b?usp=sharing#scrollTo=hRRoQ5V7VL0b" target="_blank">Семантическая сегментация легких человека (CNN + Autoencoder)</a><br><hr>
-✅ <a href="https://colab.research.google.com/drive/1IxH7yClkd0yclbOnNfRlGK9ITE<hr>H27z0?usp=sharing" target="_blank">Детекция фальшивых новостей (TfidfVectorizer)</a><br><hr>
-✅ <a href=https://colab.research.google.com/drive/153zgr9vMFyGOcO17CbzS1M1zJm2Mob1b?usp=sharing" target="_blank">Обнаружение болезни паркинсона (XGBoost)</a><br><hr>
-✅ <a href=https://colab.research.google.com/drive/1NIXP0uNoVT8mnfg_vjN96y2h1cyhtbJn?usp=sharing>Распознование номеров автомобилей (OpenCV)</a><br><hr>
-✅  <a href=https://colab.research.google.com/drive/1Hf_5Jf0LMkzRpbbbX_GYgXkcVeEVBE16?usp=sharing#scrollTo=T0w1ahPLwTXK>Нейро-консультатнт по ТК РФ(GPT-3.5, llama-index)</a><br><hr>
+<H2>🖥PET-проекты:</h2><br><hr>
+📌 <a href="https://colab.research.google.com/drive/1w_ZvicCnsrdUN1w1Xlap87mpkKRlUA0b?usp=sharing#scrollTo=hRRoQ5V7VL0b" target="_blank">Семантическая сегментация легких человека (CNN + Autoencoder)</a><br><hr>
+📌 <a href="https://colab.research.google.com/drive/1IxH7yClkd0yclbOnNfRlGK9ITE<hr>H27z0?usp=sharing" target="_blank">Детекция фальшивых новостей (TfidfVectorizer)</a><br><hr>
+📌 <a href=https://colab.research.google.com/drive/153zgr9vMFyGOcO17CbzS1M1zJm2Mob1b?usp=sharing" target="_blank">Обнаружение болезни паркинсона (XGBoost)</a><br><hr>
+📌 <a href=https://colab.research.google.com/drive/1NIXP0uNoVT8mnfg_vjN96y2h1cyhtbJn?usp=sharing>Распознование номеров автомобилей (OpenCV)</a><br><hr>
+📌  <a href=https://colab.research.google.com/drive/1Hf_5Jf0LMkzRpbbbX_GYgXkcVeEVBE16?usp=sharing#scrollTo=T0w1ahPLwTXK>Нейро-консультатнт по ТК РФ(GPT-3.5, llama-index)</a><br><hr>
 
 
 🎯 Моя цель — перейти на позицию разработчика нейросетей, где я смогу объединить свой опыт работы, понимание технологий и навыки разработки, чтобы вносить вклад в инновационные проекты и автоматизировать процессы.<hr>
