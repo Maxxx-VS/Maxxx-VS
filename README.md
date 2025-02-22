@@ -1,5 +1,5 @@
 <h1 align="center">Привет 👋! Меня зовут <a href="https://omsk.hh.ru/resume/1afcf736ff0e35161e0039ed1f6a3059304573" target="_blank">Максим</a>
-<H2>ML/DL-инженер 🇷🇺</h2>
+<H2>ML/DL-инженер 🇷🇺 </h2>
 <ul>
   <li>🌍 Живу в Омске
   <li>💼 Закончил Омскую IT Академию
@@ -22,6 +22,7 @@
 
   
 <H2>🖥PET-проекты:</h2>
+📌 <a href="https://drive.google.com/drive/folders/1rwi9dy6PUZjUMzvJkdmquxW2AZnIky3c?hl=ru" target="_blank">Механизированный манипулятор</a><br><hr>
 📌 <a href="https://colab.research.google.com/drive/1w_ZvicCnsrdUN1w1Xlap87mpkKRlUA0b?usp=sharing#scrollTo=hRRoQ5V7VL0b" target="_blank">Семантическая сегментация легких человека (CNN + Autoencoder)</a><br><hr>
 📌 <a href="https://colab.research.google.com/drive/1IxH7yClkd0yclbOnNfRlGK9ITE<hr>H27z0?usp=sharing" target="_blank">Детекция фальшивых новостей (TfidfVectorizer)</a><br><hr>
 📌 <a href=https://colab.research.google.com/drive/153zgr9vMFyGOcO17CbzS1M1zJm2Mob1b?usp=sharing" target="_blank">Обнаружение болезни паркинсона (XGBoost)</a><br><hr>
