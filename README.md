@@ -22,8 +22,11 @@
 
   
 <H2>🖥PET-проекты:</h2>
-📌 <a href="https://drive.google.com/drive/folders/1rwi9dy6PUZjUMzvJkdmquxW2AZnIky3c?hl=ru" target="_blank">Механизированный манипулятор</a>
-По зыкам: <br><hr>
+📌 <a href="https://drive.google.com/drive/folders/1rwi9dy6PUZjUMzvJkdmquxW2AZnIky3c?hl=ru" target="_blank">Механизированный манипулятор</a><br>
+Стек проекта:<br>
+ЯП: Pythot, C++<br>
+Железо: Arduino Nano, Сервомотор SG90, OLED дисплей 0.96" 128x64, I2C. Ультразвуковой дальномер HC-SR04, 3D принтер.
+<br><hr>
 📌 <a href="https://colab.research.google.com/drive/1w_ZvicCnsrdUN1w1Xlap87mpkKRlUA0b?usp=sharing#scrollTo=hRRoQ5V7VL0b" target="_blank">Семантическая сегментация легких человека (CNN + Autoencoder)</a><br><hr>
 📌 <a href="https://colab.research.google.com/drive/1IxH7yClkd0yclbOnNfRlGK9ITE<hr>H27z0?usp=sharing" target="_blank">Детекция фальшивых новостей (TfidfVectorizer)</a><br><hr>
 📌 <a href=https://colab.research.google.com/drive/153zgr9vMFyGOcO17CbzS1M1zJm2Mob1b?usp=sharing" target="_blank">Обнаружение болезни паркинсона (XGBoost)</a><br><hr>
