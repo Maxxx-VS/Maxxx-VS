@@ -22,7 +22,8 @@
 
   
 <H2>🖥PET-проекты:</h2>
-📌 <a href="https://drive.google.com/drive/folders/1rwi9dy6PUZjUMzvJkdmquxW2AZnIky3c?hl=ru" target="_blank">Механизированный манипулятор</a><br>
+📌 <a href="https://drive.google.com/drive/folders/1rwi9dy6PUZjUMzvJkdmquxW2AZnIky3c?hl=ru" target="_blank">Механизированный манипулятор (Google Drive)</a><br>
+<a href="https://github.com/Maxxx-VS/CV-Arduino" target="_blank">Механизированный манипулятор (Git)</a><br>
 Манипулятор калибруется на пороговое срабатывание по цвету объекта.<br>
 Стек проекта:<br>
 ЯП: Pythot, C++<br>
