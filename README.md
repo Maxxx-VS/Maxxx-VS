@@ -63,8 +63,6 @@ XGBClassifier - популярный алгоритм ML, который час�
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxxx-VS&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Maxxx-VS&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<hr>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
