@@ -59,7 +59,10 @@ XGBClassifier - популярный алгоритм ML, который час�
   <li>2024 Программирование на Python, Stepik (повышение квалификации)
   <li>2014 Инженер / Автоматизация технологический процессов (220301)
 <ul><br><hr>
-  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxxx-VS&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<hr>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Maxxx-VS&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <hr>
 
