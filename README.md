@@ -34,7 +34,6 @@
 Семантическая сегментация легких человека позволяет автоматизировыать "ручной" труд человека.
 Принцип работы построен на совметной работе кодировщика и декодеровщика. U-net подобная модель.
 <br><hr>
-📌 <a href="https://colab.research.google.com/drive/1IxH7yClkd0yclbOnNfRlGK9ITE<hr>H27z0?usp=sharing" target="_blank">Детекция фальшивых новостей (TfidfVectorizer)</a><br><hr>
 📌 <a href=https://colab.research.google.com/drive/153zgr9vMFyGOcO17CbzS1M1zJm2Mob1b?usp=sharing" target="_blank">Обнаружение болезни паркинсона (XGBoost)</a><br><hr>
 📌 <a href=https://colab.research.google.com/drive/1NIXP0uNoVT8mnfg_vjN96y2h1cyhtbJn?usp=sharing>Распознование номеров автомобилей (OpenCV)</a><br><hr>
 📌  <a href=https://colab.research.google.com/drive/1Hf_5Jf0LMkzRpbbbX_GYgXkcVeEVBE16?usp=sharing#scrollTo=T0w1ahPLwTXK>Нейро-консультатнт по ТК РФ(GPT-3.5, llama-index)</a><br><hr>
