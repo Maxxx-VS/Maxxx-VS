@@ -59,11 +59,10 @@ XGBClassifier - популярный алгоритм ML, который час�
   <li>2024 Программирование на Python, Stepik (повышение квалификации)
   <li>2014 Инженер / Автоматизация технологический процессов (220301)
 <ul>
-<hr>
+<br><hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxxx-VS&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<hr>
-
+<br><hr>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
@@ -83,4 +82,3 @@ XGBClassifier - популярный алгоритм ML, который час�
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
