@@ -1,5 +1,7 @@
 # 🤖 ML / DL Engineer | Computer Vision | Edge AI
 
+https://gitverse.ru/MaxxxVS
+
 📍 Омск, Россия
 🎯 **Computer Vision · Deep Learning · Edge AI · Robotics · AI Automation**
 
